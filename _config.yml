@@ -1,1 +1,1 @@
-include: [".well-known", "support.html", "privacy-policy.html"]
+include: [".well-known", "support.html", "privacy-policy.html", "app-ads.txt"]
